@@ -1,6 +1,8 @@
 # **Live The Code 3.O Global Hackathon: Blockchain-Based Water Quality Monitoring System**
 
-# **WEB3
+# **WEB3**
+
+# **Team: The CodeRunners**
 
 ## **Brief Explanation of Idea**
 
@@ -50,6 +52,10 @@
 - SendGrid (for email alerts)
 
 ## **Screenshots**
+
+### **Logo**
+![logo](https://github.com/user-attachments/assets/5daff77f-d27a-4ccf-a119-54ee1dd9f804)
+
 
 ### **Real-Time Monitoring Dashboard**
 ![Real-Time Monitoring Dashboard](https://res2.weblium.site/res/5eafe6572ef5d600210c6d9f/620a0daff5aaa100229e509b_optimized)
