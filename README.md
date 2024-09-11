@@ -52,7 +52,7 @@
 ## **Screenshots**
 
 ### **Real-Time Monitoring Dashboard**
-![Real-Time Monitoring Dashboard](https://www.researchgate.net/publication/322231953/figure/fig7/AS:579106950651908@1515081264306/Example-of-mWater-Dashboard-for-Water-Point-Monitoring.png)
+![Real-Time Monitoring Dashboard](https://res2.weblium.site/res/5eafe6572ef5d600210c6d9f/620a0daff5aaa100229e509b_optimized)
 
 ### **Tampering Probability Indicator**
 ![Tampering Probability Indicator](https://s3.amazonaws.com/s3-biz4intellia/images/live-location-tracking-of-tanks-with-volume-status.png)
@@ -61,7 +61,7 @@
 ![Visual Tampering Indicator](https://www.researchgate.net/publication/356567003/figure/fig2/AS:1095141611831296@1638113515679/Smart-Water-Management-System-9.jpg)
 
 ### **Email and SMS Alerts**
-![Email and SMS Alerts](https://www.researchgate.net/publication/369423225/figure/fig2/AS:11431281129392187@1679505549244/Block-diagram-of-water-level-measurement-and-control-in-the-tank.jpg)
+![Email and SMS Alerts](https://www.boltiot.com/hs-fs/hubfs/Projects%20images%20and%20videos/IoT%20Based%20Flood%20Monitoring%20And%20Alerting%20System/Demonstration.jpg?width=585&name=Demonstration.jpg)
 
 ![Water Quality Dashboard](https://github.com/user-attachments/assets/8819b736-12df-45a7-a5c4-16e7da403ae8) ![...](https://github.com/user-attachments/assets/5a8613cc-71d4-4107-8c67-e68d03d9e1f7) ![](https://github.com/user-attachments/assets/bbad5af1-2c75-43e1-af1b-9f968e1e50f1) ![]
 
