@@ -58,7 +58,7 @@
 ![Tampering Probability Indicator](https://s3.amazonaws.com/s3-biz4intellia/images/live-location-tracking-of-tanks-with-volume-status.png)
 
 ### **Visual Tampering Indicator**
-![Visual Tampering Indicator](https://www.researchgate.net/publication/356567003/figure/fig2/AS:1095141611831296@1638113515679/Smart-Water-Management-System-9.jpg)
+![Visual Tampering Indicator](https://5.imimg.com/data5/SC/OC/WH/GLADMIN-40897785/water-level-image1.png)
 
 ### **Email and SMS Alerts**
 ![Email and SMS Alerts](https://www.boltiot.com/hs-fs/hubfs/Projects%20images%20and%20videos/IoT%20Based%20Flood%20Monitoring%20And%20Alerting%20System/Demonstration.jpg?width=585&name=Demonstration.jpg)
