@@ -123,7 +123,7 @@
 ## **Contributors**
 
 - Yugh Juneja (https://github.com/yugh88)
-- Aditya Raj
+- Aditya Raj  (https://github.com/ArkhamBat)
 - Priyanshu Joshi (https://github.com/TASS33)
 - Mansi Kapse  (https://github.com/Mansi-91)
 
